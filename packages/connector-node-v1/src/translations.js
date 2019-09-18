@@ -7,6 +7,7 @@ const translations = {
     remove: 'Remove',
     download: 'Download',
     rename: 'Rename',
+    edit: 'Edit',
     creating: 'Creating',
     creatingName: 'Creating {name}...',
     create: 'Create',
