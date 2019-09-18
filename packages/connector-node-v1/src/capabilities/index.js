@@ -3,11 +3,13 @@ import deleteResource from './delete-resource';
 import download from './download';
 import upload from './upload';
 import rename from './rename';
+import edit from './edit';
 import sort from './sort';
 
 const capabilities = [
   createFolder,
   rename,
+  edit,
   download,
   upload,
   deleteResource,
